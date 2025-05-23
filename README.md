@@ -63,5 +63,5 @@ Summarized key insights through visuals and dashboards, emphasizing top programm
 - `notebooks/` – Data wrangling and EDA notebooks  
 - `dashboards/` – Screenshots or exports of Cognos dashboards  
 - `survey_data_updated.csv` – The dataset used  
-- `presentation/` – Final presentation slides (if applicable)
+- `presentation/` – Final presentation slides 
 
