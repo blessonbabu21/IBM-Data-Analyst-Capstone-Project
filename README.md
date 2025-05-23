@@ -54,8 +54,6 @@ Summarized key insights through visuals and dashboards, emphasizing top programm
 
 ---
 
-> This capstone demonstrates hands-on skills in data analysis, visualization, dashboard creation, and storytelling using real-world data.
-
 ---
 
 ## 📁 Repository Contents
